@@ -12,7 +12,7 @@ A simple web-based game that simulates flipping a coin and randomly returns Head
 - Fast and lightweight
 
 🛠️Built With
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- ![HTML5](https://img.shields.io/badge/-HTML5-0b0f1a?style=for-the-badge&logo=html5&logoColor=8b5cf6)
+- ![CSS3](https://img.shields.io/badge/-CSS3-0b0f1a?style=for-the-badge&logo=css3&logoColor=8b5cf6)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-0b0f1a?style=for-the-badge&logo=javascript&logoColor=8b5cf6)
   
